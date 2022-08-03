@@ -6,7 +6,7 @@ from tests.test_base import BaseTest
 
 
 @allure.epic("Security")
-@allure.story("Forgot Password Feature's Functionality")
+@allure.story("Forgot  Password Feature's Functionality")
 @allure.severity(allure.severity_level.CRITICAL)
 @pytest.mark.security
 class TestForgotPassword(BaseTest):
