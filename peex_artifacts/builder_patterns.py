@@ -479,4 +479,4 @@ if __name__ == '__main__':
     caretaker.undo(writer)
 
     print(writer.content + "\n\n")
-    print("hi")
+    print("hello")
